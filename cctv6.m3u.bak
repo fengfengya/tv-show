@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV6-1" tvg-logo="https://live.fanmingming.com/tv/CCTV6-1.png",CCTV6-1
 https://iptv.luas.edu.cn/liverespath/f2f39ee2105c85c32df375728a51b5d89d3afab4/113ed89f48-0-0-85216e55861329ec31ba1437a2ff37c9/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6-2" tvg-logo="https://live.fanmingming.com/tv/CCTV6-2.png",CCTV6-2
