@@ -14,4 +14,4 @@
 
 CCTV6镜像：https://mirror.ghproxy.com/https://raw.githubusercontent.com/fengfengya/tv-show/main/cctv6.m3u
 
-看电视：https://mirror.ghproxy.com/https://raw.githubusercontent.com/fengfengya/tv-show/main/kds.m3u
+tvlist：https://mirror.ghproxy.com/https://raw.githubusercontent.com/fengfengya/tv-show/main/tvlist.txt
