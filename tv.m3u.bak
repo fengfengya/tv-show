@@ -1,3 +1,5 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东珠江
-http://glive.grtn.cn/live/lizhi.m3u8
+#EXTM3U
+#EXTINF:-1,广东卫视
+http://120.39.196.231/tcdn.itouchtv.cn/live/gdws.m3u8?t_token=33355c556bd81390d3c2653174fc9fab-FMgYT5lpwME9PV4zzunmZruzUH8J2Ebz7b97ELawGt1%2BMMBLkkpRXUc%2Fnaw4e1PBT0u%2FmPgzj%2BSynf07dV1oBIuUDUZSyuL%2FM4aSNqV7PaJ9EC7Qr81mYdpMl%2B%2BNUy3BLYGal45aRBocTEPFO%2BvxpoVqfLdff6mof9VTiLkLuDw3hUvDItZKPrTp62L6E1btfCJzZYZr8GVd3WYvAZ8J7%2FfXepBO0uM%2F8F6fCEZEkP9imOxKJHC%2FFOjSEU9qYA2POvGHYOiQZiJAraiP5NR9gcWztAhgAj0ccp4XNgoupP%2FFm2Y%2BF7hkeLSa%2FOIMNiC9SKgRxtFaImTiNriPzp8hs2%2BxPdnrEdJYDQMisSO8nUxI6v1U%2FvU4VCfr3K1J34h2
+#EXTINF:-1,广东珠江
+https://zjtctv.gdtv.cn/live/gdzj.m3u8?auth_key=1709298777-0-0-1e025c0479c3efe5eccf1468c74ea034
