@@ -19,11 +19,11 @@ https://epg.pw/stream/a444025fe5f72f64385141ec6895e9c9334a553582a392460b341523de
 #EXTINF:-1 tvg-name="CCTV6-2" tvg-id="A07" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV6-2
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6-3" tvg-id="A07" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV6-3
-http://39.134.65.239/PLTV/88888888/224/3221225814/1.m3u8
+http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 #EXTINF:-1 tvg-name="CCTV6-4" tvg-id="A07" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV6-3
-http://39.134.67.110/PLTV/88888888/224/3221225814/1.m3u8
+https://taoiptv.com/Yshipin.php?id=cctv6
 #EXTINF:-1 tvg-name="CCTV6-5" tvg-id="A07" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV6-4
-http://39.134.67.108:80/PLTV/88888888/224/3221225814/1.m3u8
+https://app.taoiptv.com/api/Yshipin.php?id=cctv6
 #EXTINF:-1 tvg-name="CCTV6-6" tvg-id="A07" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV6-5
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226011/1.m3u8
 #EXTINF:-1 tvg-name="CCTV6-6" tvg-id="A07",CCTV6-6
